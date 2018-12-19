@@ -1,5 +1,5 @@
 # Connect to EC2 Linux Instance
-This brief tutorial provides direct steps for beginners who are not familiar with Information Technology and refers to AWS's [official documentation](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstances.html).
+This brief tutorial provides direct steps for beginners who are not familiar with Information Technology and refers to AWS's [official documentation](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstances.html). Please feel free to share.
 
 ## List of Content
 
