@@ -64,6 +64,7 @@ This brief tutorial provides direct steps for beginners who are not familiar wit
   * Click **Session** category on left side.
   * Click **Default Settings** below.
   * Click **Save** button.
+  
   ![](img/saveSettings.png)
 
 * Click the **Open** button below to start connecting.
@@ -123,11 +124,11 @@ This brief tutorial provides direct steps for beginners who are not familiar wit
 
       ssh -i yourKeyPair.pem ec2-user@EC2_INSTANCE_IP
 
-* Enter **Yes** when you see the following message.
+* Enter **yes** when you see the following message.
 
       The authenticity of host 'xxx.xxx.xxx.xxx (xxx.xxx.xxx.xxx)' can't be established.
       ECDSA key fingerprint is SHA256:H0NHIoNi1helKgCyYxG8pzECQm8tvhQ++xxxxxxxxxx.
-      Are you sure you want to continue connecting (yes/no)?
+      Are you sure you want to continue connecting (yes/no)? yes
 
 * Start managing your instance after displaying welcome message.
 
